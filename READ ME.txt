@@ -1,5 +1,5 @@
-json reader : https://jsonformatter.org/json-viewer
-image champion : https://ddragon.leagueoflegends.com/cdn/12.8.1/img/champion/Annie.png
-image spell : https://ddragon.leagueoflegends.com/cdn/12.8.1/img/spell/SummonerFlash.png
+Pour que le code fonctionne il faut utiliser une API valable 24H trouvable :https://developer.riotgames.com/
+Si vous avez un compte, riot, normalement vous pouvez généré votre API, sinon je reste disponnible sur discord ou autre pour vous en généré une.
 
+L'API demande 2min de pause toute les 100 requetes, donc pour récupérer les 300 games, il faut 8min.
 
